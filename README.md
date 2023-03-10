@@ -1,4 +1,4 @@
-# Cuenta de GitHub comunitaria
+# Cuenta de GitHub comunitaria 🌐️
 
 Esta cuenta ha sido creada para ayudar a los estudiantes de programación a aprender cómo usar GitHub en conjunto con otras herramientas de trabajo en la nube. Esperamos que esta experiencia les permita adquirir habilidades valiosas y mejorar su capacidad para colaborar en proyectos de programación.
 
