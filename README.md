@@ -17,3 +17,7 @@ Para mantener un ambiente seguro y productivo en esta cuenta de GitHub comunitar
 - Respetar las políticas de la UMAR 🎓: Todos los usuarios deben respetar las políticas y normas de la [UMAR](https://www.umar.mx/web/).
 
 Esperamos que todos los usuarios sigan estas reglas para mantener un ambiente seguro y productivo en la cuenta de GitHub comunitaria.
+
+## Cuentas de servicios vinculados 🔗
+
+- Cuenta de [Railway](https://railway.app): esta cuenta está vinculada con el servicio de hosting de aplicaciones web llamado Railway. Esto permite desplegar código de los repositorios en la web de manera sencilla y sin preocupaciones de infraestructura subyacente.
