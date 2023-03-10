@@ -17,5 +17,3 @@ Para mantener un ambiente seguro y productivo en esta cuenta de GitHub comunitar
 - Respetar las políticas de la UMAR 🎓: Todos los usuarios deben respetar las políticas y normas de la [UMAR](https://www.umar.mx/web/).
 
 Esperamos que todos los usuarios sigan estas reglas para mantener un ambiente seguro y productivo en la cuenta de GitHub comunitaria.
-
-¡Gracias por unirse a esta comunidad de programación y esperamos ver sus proyectos y contribuciones en el futuro! 🚀
